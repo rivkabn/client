@@ -1,9 +1,12 @@
 import './App.css';
+import './components/PageHeaders'
+import PageHeaders from './components/PageHeaders';
+
 
 function App() {
-  return (
-    <>
-     </>
+console.log("");
+
+  return (<PageHeaders></PageHeaders>
   );
 }
 
